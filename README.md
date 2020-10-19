@@ -1,2 +1,1 @@
-# Homebrew
-My modified Homebrew installer.
+###### My modified Homebrew installer.
